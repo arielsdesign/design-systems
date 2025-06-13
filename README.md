@@ -2,7 +2,7 @@
 
 [http://designsystems.info](http://designsystems.info) aims to document and share high quality, hand picked resources related to designing, building and maintaining modern design systems. The project is currently in planning phase *(6/2017).*
 
-**Want to help? Get in touch with [@viljamis](https://twitter.com/viljamis).**
+**Want to help? Get in touch with [@ariel](https://arielsalminen.com).**
 
 ## To do *(Work-in-progress)*
 
@@ -81,13 +81,13 @@
 
 ## Who’s Behind This
 
-* [@viljamis](https://viljamisdesign.com)
+* [Ariel Salminen](https://arielsalminen.com)
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2017 [Viljami S. Design](https://viljamisdesign.com)
+Copyright (c) 2017 [Ariel S. Design](https://arielsalminen.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
